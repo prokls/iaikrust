@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="700"
+   viewBox="0 0 468.74999 656.25002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="side-image.svg"
+   inkscape:export-filename="/home/meisterluk/Desktop/rustgraz-logo/uhrturm.small.png"
+   inkscape:export-xdpi="36.290001"
+   inkscape:export-ydpi="36.290001">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7465348"
+     inkscape:cx="213.35289"
+     inkscape:cy="303.57736"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     units="px"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-396.11211)">
+    <path
+       style="fill:#885c31;fill-opacity:1;stroke:none;stroke-width:0.27941737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 416.43057,425.06691 H 39.018122 l 22.034065,98.32785 H 438.78773 Z"
+       id="path846"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot886"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:1;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.55114299,0,0,0.55114299,-517.41028,286.8309)"><flowRegion
+         id="flowRegion888"><rect
+           id="rect890"
+           width="722.85211"
+           height="1442.9542"
+           x="1015.3608"
+           y="499.827" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara886">tools</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara1001">syntax</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara1005">ownership</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara1009">traits &amp; generics</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara1011">lifetimes</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:end;text-anchor:end"
+         id="flowPara1013">summary</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot886-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.55114299,0,0,0.55114299,-504.43651,158.43961)"><flowRegion
+         id="flowRegion888-8"
+         style="text-align:center;text-anchor:middle"><rect
+           id="rect890-9"
+           width="663.60999"
+           height="237.6058"
+           x="1015.3608"
+           y="499.827"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara886-3">rust talk</flowPara></flowRoot>    <path
+       style="fill:#885c31;fill-opacity:1;stroke:none;stroke-width:0.27941737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 441.03734,537.29593 H 63.624872 l 1.007924,4.57437 H 442.36836 Z"
+       id="path846-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#885c31;fill-opacity:1;stroke:none;stroke-width:0.27941737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 439.17106,528.55754 H 61.758576 l 1.007924,4.57437 h 377.73558 z"
+       id="path846-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

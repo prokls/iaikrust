@@ -1,0 +1,148 @@
+%%
+%% This is file `beamercolorthememetropolis.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% beamercolorthememetropolis.dtx  (with options: `package')
+%% ---------------------------------------------------------------------------
+%% Copyright 2015 Matthias Vogelgesang and the LaTeX community. A full list of
+%% contributors can be found at
+%% 
+%%     https://github.com/matze/mtheme/graphs/contributors
+%% 
+%% and the original template was based on the HSRM theme by Benjamin Weiss.
+%% 
+%% This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+%% International License (https://creativecommons.org/licenses/by-sa/4.0/).
+%% ---------------------------------------------------------------------------
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{beamercolorthememetropolis}[2017/01/23 Metropolis color theme]
+\RequirePackage{pgfopts}
+\pgfkeys{
+  /metropolis/color/block/.cd,
+    .is choice,
+    transparent/.code=\metropolis@block@transparent,
+    fill/.code=\metropolis@block@fill,
+}
+\pgfkeys{
+  /metropolis/color/background/.cd,
+    .is choice,
+    dark/.code=\metropolis@colors@dark,
+    light/.code=\metropolis@colors@light,
+}
+\newcommand{\metropolis@color@setdefaults}{
+  \pgfkeys{/metropolis/color/.cd,
+    background=dark,
+    block=transparent,
+  }
+}
+\definecolor{mBlack}{HTML}{000000}
+\definecolor{mWhite}{HTML}{FFFFFF}
+\definecolor{mBlackOrange}{HTML}{331100}
+\definecolor{mDarkBrown}{HTML}{604c38}
+\definecolor{mRustDarkOrange}{HTML}{8d2f00}
+\definecolor{mRustLightOrange}{HTML}{ff9600}
+\definecolor{mLightBrown}{HTML}{EB811B}
+\definecolor{mDarkTeal}{HTML}{23373b}
+\definecolor{mRustVeryLightOrange}{HTML}{ffead0}
+\newcommand{\metropolis@colors@dark}{
+  \setbeamercolor{normal text}{%
+    fg=mBlackOrange,
+    bg=mWhite
+  }
+  \usebeamercolor[fg]{normal text}
+}
+\newcommand{\metropolis@colors@light}{
+  \setbeamercolor{normal text}{%
+    fg=mRustDarkOrange,
+    bg=black!2
+  }
+}
+\setbeamercolor{title text}{%
+  fg=mWhite,
+  bg=mRustDarkOrange
+}
+\setbeamercolor{alerted text}{%
+  fg=mLightBrown
+}
+\setbeamercolor{example text}{%
+  fg=mDarkTeal
+}
+\setbeamercolor{titlelike}{use=title text, parent=normal text}
+\setbeamercolor{author}{use=normal text, parent=normal text}
+\setbeamercolor{date}{use=normal text, parent=normal text}
+\setbeamercolor{institute}{use=normal text, parent=normal text}
+\setbeamercolor{structure}{use=normal text, fg=normal text.fg}
+\setbeamercolor{palette primary}{%
+  use=normal text,
+  fg=normal text.bg,
+  bg=normal text.fg
+}
+\setbeamercolor{frametitle}{%
+  %use=palette primary,
+  use=title text,
+  parent=title text
+}
+\setbeamercolor{progress bar}{%
+  use=alerted text,
+  fg=mRustDarkOrange,
+  bg=mRustDarkOrange!50!black!30
+}
+\setbeamercolor{title separator}{
+  use=progress bar,
+  parent=progress bar
+}
+\setbeamercolor{progress bar in head/foot}{%
+  use=progress bar,
+  parent=progress bar
+}
+\setbeamercolor{progress bar in section page}{
+  use=progress bar,
+  parent=progress bar
+}
+\newcommand{\metropolis@block@transparent}{
+  \setbeamercolor{block title}{%
+    use=normal text,
+    fg=normal text.fg,
+    bg=
+  }
+  \setbeamercolor{block body}{
+    bg=
+  }
+}
+\newcommand{\metropolis@block@fill}{
+  \setbeamercolor{block title}{%
+    use=normal text,
+    fg=normal text.fg,
+    bg=normal text.bg!80!fg
+  }
+  \setbeamercolor{block body}{
+    use={block title, normal text},
+    bg=block title.bg!50!normal text.bg
+  }
+}
+\setbeamercolor{block title alerted}{%
+    use={block title, alerted text},
+    bg=block title.bg,
+    fg=alerted text.fg
+}
+\setbeamercolor{block title example}{%
+    use={block title, example text},
+    bg=block title.bg,
+    fg=example text.fg
+}
+\setbeamercolor{block body alerted}{use=block body, parent=block body}
+\setbeamercolor{block body example}{use=block body, parent=block body}
+\setbeamercolor{footnote}{fg=normal text.fg!90}
+\setbeamercolor{footnote mark}{fg=.}
+\setbeamercolor{bibliography entry author}{fg=, bg=}
+\setbeamercolor{bibliography entry title}{fg=, bg=}
+\setbeamercolor{bibliography entry location}{fg=, bg=}
+\setbeamercolor{bibliography entry note}{fg=, bg=}
+\metropolis@color@setdefaults
+\ProcessPgfPackageOptions{/metropolis/color}
+\mode<all>
+\endinput
+%%
+%% End of file `beamercolorthememetropolis.sty'.
