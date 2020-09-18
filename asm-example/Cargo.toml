@@ -1,0 +1,7 @@
+[package]
+name = "asm-example"
+version = "1.0.0"
+authors = ["Lukas Prokop <lukas.prokop@iaik.tugraz.at>"]
+edition = "2018"
+
+[dependencies]
